@@ -32,7 +32,6 @@ def banner():
 	print ("""
 		[ = ] AKTIF CMS BY Zekkel AR [ = ]
 		[ = ] Family Attack Cyber    [ = ]
-		[ = ] LO SEMUA GOBLOK        [ = ]
 """)
 def Domains(url):
 
